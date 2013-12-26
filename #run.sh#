@@ -1,0 +1,9 @@
+/bin/sh target/bin/run-svd 1024:77 1024:268 1024:462 1024:393 1024:36955 2048:77 2048:36955 2048:788
+
+#using user item mean
+#/bin/sh target/bin/run-svd --user-item-mean 1024:77 1024:268 1024:462 1024:393 1024:36955 2048:77 2048:36955 2048:788
+
+# change option to --user-mean to use user mean
+# change option to --item-mean to use item mean
+
+

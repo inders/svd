@@ -1,0 +1,17 @@
+/Users/inderbir.singh/projects/svd-assignment/src/main/java/edu/umn/cs/recsys/svd/LatentFeatureCount.java
+/Users/inderbir.singh/projects/svd-assignment/src/main/java/edu/umn/cs/recsys/dao/RatingFile.java
+/Users/inderbir.singh/projects/svd-assignment/src/main/java/edu/umn/cs/recsys/dao/ItemTitleDAO.java
+/Users/inderbir.singh/projects/svd-assignment/src/main/java/edu/umn/cs/recsys/dao/UserFile.java
+/Users/inderbir.singh/projects/svd-assignment/src/main/java/edu/umn/cs/recsys/dao/TagFile.java
+/Users/inderbir.singh/projects/svd-assignment/src/main/java/edu/umn/cs/recsys/dao/MOOCItemDAO.java
+/Users/inderbir.singh/projects/svd-assignment/src/main/java/edu/umn/cs/recsys/dao/MOOCRatingDAO.java
+/Users/inderbir.singh/projects/svd-assignment/src/main/java/edu/umn/cs/recsys/svd/SVDModelBuilder.java
+/Users/inderbir.singh/projects/svd-assignment/src/main/java/edu/umn/cs/recsys/svd/SVDItemScorer.java
+/Users/inderbir.singh/projects/svd-assignment/src/main/java/edu/umn/cs/recsys/dao/ItemTagDAO.java
+/Users/inderbir.singh/projects/svd-assignment/src/main/java/edu/umn/cs/recsys/svd/SVDMain.java
+/Users/inderbir.singh/projects/svd-assignment/src/main/java/edu/umn/cs/recsys/dao/UserNameDAO.java
+/Users/inderbir.singh/projects/svd-assignment/src/main/java/edu/umn/cs/recsys/dao/MOOCUserDAO.java
+/Users/inderbir.singh/projects/svd-assignment/src/main/java/edu/umn/cs/recsys/svd/SVDModel.java
+/Users/inderbir.singh/projects/svd-assignment/src/main/java/edu/umn/cs/recsys/dao/CSVItemTagDAO.java
+/Users/inderbir.singh/projects/svd-assignment/src/main/java/edu/umn/cs/recsys/dao/TitleFile.java
+/Users/inderbir.singh/projects/svd-assignment/src/main/java/edu/umn/cs/recsys/svd/BaselineMode.java
